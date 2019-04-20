@@ -1,2 +1,2 @@
-# web-site
-mpv.net web site
+# mpvnet-web-site
+Web site of mpv.net media player
